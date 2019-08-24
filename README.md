@@ -18,7 +18,7 @@ There are two kind of commands for this script
 #### USER Commands list
 * Commands used to join [CHANNELS]
 
-Command | subCommand | Input | Optional Parameters | help | Example
+Cmd | subCmd | Input | Optional | help | Example
 :--- | :--- | :--- | :--- | :--- | :--- 
 /tch | help | | | commands list | /tch help
 /tch | | | | shows all available channels | /tch
