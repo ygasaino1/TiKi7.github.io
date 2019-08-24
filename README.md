@@ -42,7 +42,7 @@ Command | Optional | Help | Example
 
 
 ## MODERATOR Commands list
-#### commands used to manage __[CHANNELS]__
+#### Commands used to manage __[CHANNELS]__
 
 Command | Help | Example
 :--- | :--- | :---
@@ -55,7 +55,7 @@ _Attention:_
 >- Setting [PASSWORD] is optional.
 >- You can't remove channels __`0`__ and __`1`__.
 
-#### commands used to manage __[PASSWORDS]__
+#### Commands used to manage __[PASSWORDS]__
 
 Command | Help | Example
 :--- | :--- | :---
@@ -67,7 +67,7 @@ _Attention:_
 >- Don't use `space` in your [PASSWORD].
 >- You can't set any [PASSWORD] for channels __`0`__ and __`1`__.
 
-#### commands used to manage __[BANNED]__ users
+#### Commands used to manage __[BANNED]__ users
 
 Command | Help | Example
 :--- | :--- | :---
