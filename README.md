@@ -24,7 +24,7 @@ Command | help | Example
 /tch | shows all available channels | /tch
 /tch [channel number] |  to join a specific channel  | /tch 3
 
-__Attention:__
+_Attention:_
 
 >If your current channel is PRIVATE, you can't use any video commands without knowing channel's __[PASSWORD]__.
 You have to write this __[PASSWORD]__ before your video links. Example:
@@ -39,7 +39,7 @@ Command | Optional | help | Example
 /tk [video link] | [params] | plays your video link | /tk [https://www.youtube.com/watch?v=fajgHyPHmV4]() loop
 /url [webpage link] |  | opens a web page | /url [https://www.google.com]()
 
-__Attention:__
+_Attention:_
 
 >__[params]__
 >- youtube:
