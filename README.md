@@ -1,4 +1,4 @@
-# TKMedia Documentation ([BUY](https://store.sansar.com/listings/1b1274e3-0f40-45f4-8d82-325d1a1c5235/tikimedia))![TK Logo](https://avatars1.githubusercontent.com/u/26417952?s=100)
+# TKMedia Documentation ([BUY/UPDATE](https://store.sansar.com/listings/1b1274e3-0f40-45f4-8d82-325d1a1c5235/tikimedia))![TK Logo](https://avatars1.githubusercontent.com/u/26417952?s=100)
 This script is used to override your media source in the experience. The thing that makes this script different from other scripts available in market is that you can create multiple __[CHANNELS]__ so people in different channels can watch different videos. Same concept as watching different videos in different rooms of a building.
 
 
