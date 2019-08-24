@@ -36,7 +36,7 @@ You have to write this __[PASSWORD]__ before your video links. Example:
 Command | Optional | help | Example
 :--- | :--- | :--- | :---
 /tk help | | tk commands list | /tk help
-/tk [video link] | [params] | plays your video link | /tk [https://www.youtube.com/watch?v=fajgHyPHmV4]() loop
+/tk [video link] | [params](#params) | plays your video link | /tk [https://www.youtube.com/watch?v=fajgHyPHmV4]() loop
 /url [webpage link] |  | opens a web page | /url [https://www.google.com]()
 
 
@@ -81,3 +81,9 @@ _Attention:_
 
 
 
+
+###### [params]
+
+Source | Parameter | Help
+:--- | :--- | :---
+youtube | loop | to repeat playing same video (if it's not part of a playlist).
