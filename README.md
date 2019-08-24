@@ -36,7 +36,7 @@ You have to write this __[PASSWORD]__ before your video links. Example:
 Command | Optional | help | Example
 :--- | :--- | :--- | :---
 /tk help | | commands list | /tk help
-/tk [video link] | [params] | plays your video link | /tk ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `https://www.youtube.com/watch?v=fajgHyPHmV4` loop
+/tk [video link] | [params] | plays your video link | /tk [https://www.youtube.com/watch?v=fajgHyPHmV4]() loop
 /url [webpage link] |  | opens a web page | /url https://www.google.com
 
 __Attention:__
