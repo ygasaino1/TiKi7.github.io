@@ -7,11 +7,11 @@ There are two kind of commands for this script
 
 - [__User Commands__](#user-commands-list)
   - [commands used to join __[CHANNELS]__](#commands-used-to-join-channels)
-  - commands used to open videos and web pages
+  - [commands used to open videos and web pages](#commands-used-to-open-videos-and-web-pages)
 - [__Moderator Commands__](#moderator-commands-list)
-  - commands used to manage __[CHANNELS]__
-  - [commands used to manage __[PASSWORDS]__](#commands-used-t-manage-[passwords])
-  - commands used to manage __[BANNED]__ users
+  - [commands used to manage __[CHANNELS]__](#commands-used-to-manage-channels)
+  - [commands used to manage __[PASSWORDS]__](#commands-used-to-manage-passwords)
+  - [commands used to manage __[BANNED]__ users](#commands-used-to-manage-banned-users)
 
 
 
@@ -66,7 +66,7 @@ _Attention:_
 >- Don't use `space` in your [PASSWORD].
 >- You can't set any [PASSWORD] for channels __`0`__ and __`1`__.
 
-#### >>> commands used to manage __[BANNED]__ users
+#### commands used to manage __[BANNED]__ users
 
 Command | help | Example
 :--- | :--- | :---
