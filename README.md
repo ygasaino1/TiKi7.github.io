@@ -6,7 +6,7 @@ This script is used to override your media source in the experience. The thing t
 There are two kind of commands for this script
 
 - [__User Commands__](#user-commands-list)
-  - commands used to join __[CHANNELS]__
+  - [commands used to join __[CHANNELS]__](#commands-used-to-join-channels)
   - commands used to open videos and web pages
 - [__Moderator Commands__](#moderator-commands-list)
   - commands used to manage __[CHANNELS]__
