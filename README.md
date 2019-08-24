@@ -10,13 +10,13 @@ There are two kind of commands for this script
   - commands used to open videos and web pages
 - [__Moderator Commands__](#moderator-commands-list)
   - commands used to manage __[CHANNELS]__
-  - commands used to manage __[PASSWORDS]__
+  - [commands used to manage __[PASSWORDS]__](#commands-used-t-manage-[passwords])
   - commands used to manage __[BANNED]__ users
 
 
 
-### USER Commands list
-###### Commands used to join [CHANNELS]
+## USER Commands list
+#### Commands used to join [CHANNELS]
 
 Command | help | Example
 :--- | :--- | :--- 
@@ -31,7 +31,7 @@ You have to write this __[PASSWORD]__ before your video links. Example:
 >/tk 1234a2esa [https://www.youtube.com/watch?v=fajgHyPHmV4]()
 
 
-###### Commands used to open videos and web pages
+#### Commands used to open videos and web pages
 
 Command | Optional | help | Example
 :--- | :--- | :--- | :---
@@ -40,8 +40,9 @@ Command | Optional | help | Example
 /url [webpage link] |  | opens a web page | /url [https://www.google.com]()
 
 
-### MODERATOR Commands list
-###### commands used to manage __[CHANNELS]__
+## MODERATOR Commands list
+#### commands used to manage __[CHANNELS]__
+
 Command | help | Example
 :--- | :--- | :---
 /tch help | tch commands list | /tch help
@@ -53,7 +54,7 @@ _Attention:_
 >- Setting [PASSWORD] is optional.
 >- You can't remove channels __`0`__ and __`1`__.
 
-###### commands used to manage __[PASSWORDS]__
+#### commands used to manage __[PASSWORDS]__
 
 Command | help | Example
 :--- | :--- | :---
@@ -65,7 +66,7 @@ _Attention:_
 >- Don't use `space` in your [PASSWORD].
 >- You can't set any [PASSWORD] for channels __`0`__ and __`1`__.
 
-###### commands used to manage __[BANNED]__ users
+#### >>> commands used to manage __[BANNED]__ users
 
 Command | help | Example
 :--- | :--- | :---
