@@ -3,7 +3,7 @@ This script is used to override your media source in the experience. The thing t
 
 
 ## Commands
-There are two kind of commands for this script
+There are two kind of commands for this script. You can write __`/tiki`__ in your chatbox in Sansar to see all Commands.
 
 - [__User Commands__](#user-commands-list)
   - [commands used to join __[CHANNELS]__](#commands-used-to-join-channels)
@@ -18,7 +18,7 @@ There are two kind of commands for this script
 ## USER Commands list
 #### Commands used to join [CHANNELS]
 
-Command | help | Example
+Command | Help | Example
 :--- | :--- | :--- 
 /tch help | tch commands list | /tch help
 /tch | shows all available channels | /tch
@@ -33,7 +33,7 @@ You have to write this __[PASSWORD]__ before your video links. Example:
 
 #### Commands used to open videos and web pages
 
-Command | Optional | help | Example
+Command | Optional | Help | Example
 :--- | :--- | :--- | :---
 /tk help | | tk commands list | /tk help
 /tk [video link] | [params](#params) | plays your video link | /tk [https://www.youtube.com/watch?v=fajgHyPHmV4]() loop
@@ -43,7 +43,7 @@ Command | Optional | help | Example
 ## MODERATOR Commands list
 #### commands used to manage __[CHANNELS]__
 
-Command | help | Example
+Command | Help | Example
 :--- | :--- | :---
 /tch help | tch commands list | /tch help
 /tch open [channelName] [PASSWORD] | adds a new channel | /tch open room3 as23ad2
@@ -56,7 +56,7 @@ _Attention:_
 
 #### commands used to manage __[PASSWORDS]__
 
-Command | help | Example
+Command | Help | Example
 :--- | :--- | :---
 /tkey help | tkey commands list | /tkey help
 /tkey [channelNumber] [PASSWORD] | sets new password for a channel | /tkey 3 a23das2
@@ -68,7 +68,7 @@ _Attention:_
 
 #### commands used to manage __[BANNED]__ users
 
-Command | help | Example
+Command | Help | Example
 :--- | :--- | :---
 /tban help | tban commands list | /tban help
 /tban [user handle] | bans a user from using commands | /tban tiki-8591
@@ -79,10 +79,8 @@ _Attention:_
 >- [user handle] Example: username-9999
 >- [user handle] is not caseSensitive.
 
-
-
-
-###### [params]
+## [[params]](#commands-used-to-open-videos-and-web-pages)
+(Optional parameters used for video commands)
 
 Source | Parameter | Help
 :--- | :--- | :---
