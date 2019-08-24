@@ -54,6 +54,7 @@ _Attention:_
 >- You can't remove channels __`0`__ and __`1`__.
 
 ###### commands used to manage __[PASSWORDS]__
+
 Command | help | Example
 :--- | :--- | :---
 /tkey help | tkey commands list | /tkey help
@@ -65,6 +66,7 @@ _Attention:_
 >- You can't set any [PASSWORD] for channels __`0`__ and __`1`__.
 
 ###### commands used to manage __[BANNED]__ users
+
 Command | help | Example
 :--- | :--- | :---
 /tban help | tban commands list | /tban help
