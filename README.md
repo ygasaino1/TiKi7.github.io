@@ -16,7 +16,7 @@ there are two kind of commands for this script
 
 
 #### USER Commands list
-__Commands used to join [CHANNELS]__
+* __Commands used to join [CHANNELS]__
 
 Command      | help          | Example
 :--- | :--- | :---
@@ -24,7 +24,7 @@ Command      | help          | Example
 /tch | shows all available channels | /tch
 /tch [channel number] | to join a specific channel  | /tch 3
 
-__Commands used to open videos and web pages__
+* __Commands used to open videos and web pages__
 
 Command      | help          | Example
 :--- | :--- | :---
