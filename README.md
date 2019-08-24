@@ -25,6 +25,7 @@ Command      | help          | Example
 /tch [channel number] | to join a specific channel  | /tch 3
 
 __Commands used to open videos and web pages__
+
 Command      | help          | Example
 :--- | :--- | :---
 /tk help | commands list | /tk help
