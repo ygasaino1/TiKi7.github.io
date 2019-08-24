@@ -18,15 +18,15 @@ There are two kind of commands for this script
 #### USER Commands list
 * Commands used to join [CHANNELS]
 
-Cmd | subCmd | Input | Optional | help | Example
-:--- | :--- | :--- | :--- | :--- | :--- 
-/tch | help | | | commands list | /tch help
-/tch | | | | shows all available channels | /tch
-/tch | | [channel number] | |  to join a specific channel  | /tch 3
+Command | help | Example
+:--- | :--- | :--- 
+/tch help | commands list | /tch help
+/tch | shows all available channels | /tch
+/tch [channel number] |  to join a specific channel  | /tch 3
 
 __Tips:__
 
-If the Channel is PRIVATE, means you can't use any Commands without knowing it's __[PASSWORD]__
+If your current channel is PRIVATE, you can't use any video commands without knowing it's __[PASSWORD]__
 
 
 * Commands used to open videos and web pages
