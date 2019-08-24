@@ -3,7 +3,7 @@ This script is used to override your media source in the experience. The thing t
 
 
 ### Commands
-there are two kind of commands for this script
+There are two kind of commands for this script
 
 - __User Commands__
   - commands used to join __[CHANNELS]__
@@ -25,8 +25,10 @@ Command      | help          | Example
 /tch [channel number] | to join a specific channel  | /tch 3
 
 __Tips:__
-If the channel is <private>, means you can't use commands without knowing it's __[PASSWORD]__
-  
+
+If the Channel is PRIVATE, means you can't use any Commands without knowing it's __[PASSWORD]__
+
+
 * Commands used to open videos and web pages
 
 Command      | help          | Example
@@ -36,5 +38,6 @@ Command      | help          | Example
 /url [webpage link] | opens a web page | /url https://www.google.com
 
 __Tips:__
-If the channel is <private>, means you can't use commands without knowing it's __[PASSWORD]__
+
+using __[PASSWORD]__: [command] __[PASSWORD]__ [link]
 
