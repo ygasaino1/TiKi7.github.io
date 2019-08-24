@@ -68,6 +68,13 @@ _Attention:_
 Command | help | Example
 :--- | :--- | :---
 /tban help | tban commands list | /tban help
+/tban [user handle] | bans a user from using commands | /tban tiki-8591
+/tban off [user handle] | removes a banned user | /tban off tiki-8591
+/tban off | removes all banned users | /tban off
+
+_Attention:_
+>- [user handle] Example: username-9999
+>- [user handle] is not caseSensitive.
 
 
 
