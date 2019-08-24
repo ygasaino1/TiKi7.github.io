@@ -16,7 +16,7 @@ There are two kind of commands for this script
 
 
 #### USER Commands list
-* Commands used to join [CHANNELS]
+###### Commands used to join [CHANNELS]
 
 Command | help | Example
 :--- | :--- | :--- 
@@ -31,7 +31,7 @@ You have to write this __[PASSWORD]__ before your video links. Example:
 >/tk 1234a2esa [https://www.youtube.com/watch?v=fajgHyPHmV4]()
 
 
-* Commands used to open videos and web pages
+###### Commands used to open videos and web pages
 
 Command | Optional | help | Example
 :--- | :--- | :--- | :---
