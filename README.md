@@ -26,7 +26,9 @@ Command | help | Example
 
 __Tips:__
 
-If your current channel is PRIVATE, you can't use any video commands without knowing it's __[PASSWORD]__
+>If your current channel is PRIVATE, you can't use any video commands without knowing channel's __[PASSWORD]__.
+You have to write this __[PASSWORD]__ before your video links. Example:
+> /tk 1234a2esa https://www.youtube.com/watch?v=fajgHyPHmV4
 
 
 * Commands used to open videos and web pages
