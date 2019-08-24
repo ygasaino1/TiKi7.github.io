@@ -28,7 +28,7 @@ __Attention:__
 
 >If your current channel is PRIVATE, you can't use any video commands without knowing channel's __[PASSWORD]__.
 You have to write this __[PASSWORD]__ before your video links. Example:
->/tk 1234a2esa https://www.youtube.com/watch?v=fajgHyPHmV4
+>/tk 1234a2esa [https://www.youtube.com/watch?v=fajgHyPHmV4]()
 
 
 * Commands used to open videos and web pages
@@ -37,7 +37,7 @@ Command | Optional | help | Example
 :--- | :--- | :--- | :---
 /tk help | | commands list | /tk help
 /tk [video link] | [params] | plays your video link | /tk [https://www.youtube.com/watch?v=fajgHyPHmV4]() loop
-/url [webpage link] |  | opens a web page | /url https://www.google.com
+/url [webpage link] |  | opens a web page | /url [https://www.google.com]()
 
 __Attention:__
 
