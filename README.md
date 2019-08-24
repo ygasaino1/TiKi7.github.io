@@ -10,7 +10,7 @@ There are two kind of commands for this script
   - commands used to open videos and web pages
 - [__Moderator Commands__](#moderator-commands-list)
   - commands used to manage __[CHANNELS]__
-  - commands used to manage channel __[PASSWORDS]__
+  - commands used to manage __[PASSWORDS]__
   - commands used to manage __[BANNED]__ users
 
 
@@ -44,12 +44,30 @@ Command | Optional | help | Example
 ###### commands used to manage __[CHANNELS]__
 Command | help | Example
 :--- | :--- | :---
-/tch help | tch commands list | /tk help
+/tch help | tch commands list | /tch help
 /tch open [channelName] [PASSWORD] | adds a new channel | /tch open room3 as23ad2
 /tch close [channelNumber] | removes a channel | /tch close 3
 
 _Attention:_
->- Don't use `space` in your [channelName].
+>- Don't use `space` in your [channelName] or [PASSWORD].
 >- Setting [PASSWORD] is optional.
->- You can't remove channels __`0`__ and __`1`__
+>- You can't remove channels __`0`__ and __`1`__.
+
+###### commands used to manage __[PASSWORDS]__
+Command | help | Example
+:--- | :--- | :---
+/tkey help | tkey commands list | /tkey help
+/tkey [channelNumber] [PASSWORD] | sets new password for a channel | /tkey 3 a23das2
+/tkey [channelNumber] off | removes a channel's password | tkey 3 off
+
+_Attention:_
+>- Don't use `space` in your [PASSWORD].
+>- You can't set any [PASSWORD] for channels __`0`__ and __`1`__.
+
+###### commands used to manage __[BANNED]__ users
+Command | help | Example
+:--- | :--- | :---
+/tban help | tban commands list | /tban help
+
+
 
