@@ -16,7 +16,7 @@ there are two kind of commands for this script
 
 
 #### USER Commands list
-* __Commands used to join [CHANNELS]__
+* Commands used to join [CHANNELS]
 
 Command      | help          | Example
 :--- | :--- | :---
@@ -24,11 +24,17 @@ Command      | help          | Example
 /tch | shows all available channels | /tch
 /tch [channel number] | to join a specific channel  | /tch 3
 
-* __Commands used to open videos and web pages__
+__Tips:__
+If the channel is <private>, means you can't use commands without knowing it's __[PASSWORD]__
+  
+* Commands used to open videos and web pages
 
 Command      | help          | Example
 :--- | :--- | :---
 /tk help | commands list | /tk help
 /tk [video link] | plays your video link | /tk https://www.youtube.com/watch?v=fajgHyPHmV4
 /url [webpage link] | opens a web page | /url https://www.google.com
+
+__Tips:__
+If the channel is <private>, means you can't use commands without knowing it's __[PASSWORD]__
 
