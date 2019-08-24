@@ -5,10 +5,10 @@ This script is used to override your media source in the experience. The thing t
 ### Commands
 There are two kind of commands for this script
 
-- __User Commands__
+- [__User Commands__](#user-commands-list)
   - commands used to join __[CHANNELS]__
   - commands used to open videos and web pages
-- __Moderator Commands__
+- [__Moderator Commands__](#moderator-commands-list)
   - commands used to manage __[CHANNELS]__
   - commands used to manage channel __[PASSWORDS]__
   - commands used to manage __[BANNED]__ users
@@ -44,3 +44,5 @@ __Attention:__
 >__[params]__
 >- youtube:
 >   - __`loop`__ to repeat playing same video (if it's not part of a playlist).
+
+#### MODERATOR Commands list
