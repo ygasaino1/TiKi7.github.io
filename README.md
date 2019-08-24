@@ -1,4 +1,4 @@
-# TKMedia Documentation
+# TKMedia Documentation ![GitHub Logo](https://avatars1.githubusercontent.com/u/26417952?s=100)
 This script is used to override your media source in the experience. The thing that makes this script different from other scripts available in market is that you can create multiple __[CHANNELS]__ so people in different channels can watch different videos. Same concept as watching different videos in different rooms of a building.
 
 
@@ -45,4 +45,3 @@ __Attention:__
 >__[params]__
 >- youtube:
 >   - __`loop`__ to repeat playing same video (if it's not part of a playlist).
-
