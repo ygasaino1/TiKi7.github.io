@@ -61,7 +61,7 @@ Command | Help | Example
 :--- | :--- | :---
 /tkey help | tkey commands list | /tkey help
 /tkey [channelNumber] [PASSWORD] | sets new password for a channel | /tkey 3 a23das2
-/tkey [channelNumber] off | removes a channel's password | tkey 3 off
+/tkey [channelNumber] off | removes channel's password | tkey 3 off
 
 _Attention:_
 >- Don't use `space` in your [PASSWORD].
