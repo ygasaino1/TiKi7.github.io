@@ -18,11 +18,11 @@ There are two kind of commands for this script
 #### USER Commands list
 * Commands used to join [CHANNELS]
 
-Command      | help          | Example
-:--- | :--- | :---
-/tch help | commands list | /tch help
-/tch | shows all available channels | /tch
-/tch [channel number] | to join a specific channel  | /tch 3
+Command | subCommand | Input | Optional Parameters | help | Example
+:--- | :--- | :--- | :--- | :--- | :--- 
+/tch | help | | | commands list | /tch help
+/tch | | | | shows all available channels | /tch
+/tch | | [channel number] | |  to join a specific channel  | /tch 3
 
 __Tips:__
 
