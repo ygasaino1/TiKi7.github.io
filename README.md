@@ -85,4 +85,5 @@ _Attention:_
 
 Source | Parameter | Help
 :--- | :--- | :---
-youtube | loop | to repeat playing same video (if it's not part of a playlist).
+youtube | loop | to repeat playing same video.
+youtube | list | to play videos in playlist.
