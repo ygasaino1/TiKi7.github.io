@@ -4,8 +4,8 @@ TKMedia uses these 4 commands. {"/tk", "/tch", "/tpass", "/tban"}. the most impo
 
 to prevent people from abusing your media script, there are two options you can use in your advantage. you can use "/tpass" to set password for your channels, so in a crowded experiance, only the few who knows the pass can use the commands. by using your other option,"/tban", you can ban few users who are abusing your script so they wont have access to commands anymore.
 
->- current version: 1.4
->- release date   : August 27 2019
+>- current version: 1.5
+>- release date   : August 28 2019
 
 ## Commands
 There are two kind of commands for this script. You can write __`/tiki`__ in your chatbox in Sansar to see all Commands.
@@ -96,5 +96,6 @@ youtube | list | to play videos in playlist.
 
 Version | Log 
 :--- | :--- 
+1.5 | fixed priority of ban check in script structure.
 1.4 | "/tkey" -> "/tpass" and now owner will get debug (Ctrl + D) message for each media request.
 1.3 | adding "/tban all" and the ability to set password for public channel
