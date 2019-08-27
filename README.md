@@ -1,8 +1,7 @@
 ![TK Logo](/logo.png)![TK Logo](/logo.png)![TK Logo](/logo.png)![TK Logo](/logo.png)![TK Logo](/logo.png)![TK Logo](/logo.png)
 # TKMedia Documentation ([BUY/UPDATE](https://store.sansar.com/listings/1b1274e3-0f40-45f4-8d82-325d1a1c5235/tikimedia))
-TKMedia uses these 4 commands. {"/tk", "/tch", "/tpass", "/tban"}. the most important command that is used to open your media links is "/tk". this command will convert your links to embed links. E.g. your link is a youtube video there will be no adds and its going to be fullscreen. (ofc, you can use /url if you need to open webpages or... .) you will see this command and other following commands, introduced in details in next section. The thing that makes this script different from other scripts available in market is that you can create multiple __[CHANNELS]__ so people in different channels can watch different videos. Same concept as watching different videos in different rooms of a building and the command to use this feature is "/tch".
-
-to prevent people from abusing your media script, there are two options you can use in your advantage. you can use "/tpass" to set password for your channels, so in a crowded experiance, only the few who knows the pass can use the commands. by using your other option,"/tban", you can ban few users who are abusing your script so they wont have access to commands anymore.
+TKMedia uses these 4 commands. {"/tk", "/tch", "/tpass", "/tban"}. The most important command that is used to open your media link is "/tk". This command will convert your link to embed link. E.g. If your link is a youtube video, there will be no ads and its going to be fullscreen (ofc you can use /url if you need to open webpages). You will see this command and other following commands introduced in details in next section. The thing that makes this script different from other scripts available in market is that you can create multiple __[CHANNELS]__ so people in different channels can watch different videos. Same concept as watching different videos in different rooms of a building and the command to use this feature is "/tch".
+To prevent people from abusing your media script, there are two options you can use in your advantage. First option is you can use "/tpass" to set password for your channels, so in a crowded experience, only the few who know the pass can use the commands. By using the other option, i.e. "/tban", you can ban the users who are abusing your script so they won’t have access to commands anymore.
 
 >- current version: 1.5
 >- release date   : August 28 2019
@@ -96,6 +95,6 @@ youtube | list | to play videos in playlist.
 
 Version | Log 
 :--- | :--- 
-1.5 | fixed priority of ban check in script structure.
+1.5 | fixed priority of ban check in script structure. added a bunch of report messages (private chat).
 1.4 | "/tkey" -> "/tpass" and now owner will get debug (Ctrl + D) message for each media request.
 1.3 | adding "/tban all" and the ability to set password for public channel
