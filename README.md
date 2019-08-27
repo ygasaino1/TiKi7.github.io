@@ -68,7 +68,6 @@ Command | Help | Example
 
 _Attention:_
 >- Don't use `space` in your [PASSWORD].
->- You can't set any [PASSWORD] for channels __`0`__ and __`1`__.
 
 #### Commands used to manage __[BANNED]__ users
 
