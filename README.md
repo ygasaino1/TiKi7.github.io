@@ -93,6 +93,7 @@ youtube | loop | to repeat playing same video.
 youtube | list | to play videos in playlist.
 
 ## Logs
+
 Version | Log 
 :--- | :--- 
 1.4 | "/tkey" -> "/tpass" and now owner will get debug (Ctrl + D) message for each media request.
