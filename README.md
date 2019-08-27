@@ -1,5 +1,8 @@
 ![TK Logo](/logo.png)![TK Logo](/logo.png)![TK Logo](/logo.png)![TK Logo](/logo.png)![TK Logo](/logo.png)![TK Logo](/logo.png)
 # TKMedia Documentation ([BUY/UPDATE](https://store.sansar.com/listings/1b1274e3-0f40-45f4-8d82-325d1a1c5235/tikimedia))
+current version: 1.3
+
+
 This script is used to override your media source in the experience. The thing that makes this script different from other scripts available in market is that you can create multiple __[CHANNELS]__ so people in different channels can watch different videos. Same concept as watching different videos in different rooms of a building.
 
 
@@ -72,9 +75,10 @@ _Attention:_
 Command | Help | Example
 :--- | :--- | :---
 /tban help | tban commands list | /tban help
+/tban all | only Moderators and Owner can use commands | /tban all
 /tban [user handle] | bans user from using commands | /tban tiki-8591
-/tban off [user handle] | removes banned user | /tban off tiki-8591
 /tban off | removes all banned users | /tban off
+/tban off [user handle] | removes banned user | /tban off tiki-8591
 
 _Attention:_
 >- [user handle] Example: username-9999
