@@ -95,5 +95,5 @@ youtube | list | to play videos in playlist.
 ## Logs
 Version | Log 
 :--- | :--- 
-1.4 | "/tkey" -> "/tpass"
+1.4 | "/tkey" -> "/tpass" and now owner will get debug (Ctrl + D) message for each media request.
 1.3 | adding "/tban all" and the ability to set password for public channel
