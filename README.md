@@ -1,9 +1,9 @@
 ![TK Logo](/logo.png)![TK Logo](/logo.png)![TK Logo](/logo.png)![TK Logo](/logo.png)![TK Logo](/logo.png)![TK Logo](/logo.png)
 # TKMedia Documentation ([BUY/UPDATE](https://store.sansar.com/listings/1b1274e3-0f40-45f4-8d82-325d1a1c5235/tikimedia))
-current version: 1.3
-
-
 This script is used to override your media source in the experience. The thing that makes this script different from other scripts available in market is that you can create multiple __[CHANNELS]__ so people in different channels can watch different videos. Same concept as watching different videos in different rooms of a building.
+
+>- current version: 1.3
+>- release date   : August 27 2019
 
 
 ## Commands
