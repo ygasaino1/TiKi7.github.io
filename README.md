@@ -3,8 +3,8 @@
 TKMedia uses these 4 commands. {"/tk", "/tch", "/tpass", "/tban"}. The most important command that is used to open your media link is "/tk". This command will convert your link to embed link. E.g. If your link is a youtube video, there will be no ads and its going to be fullscreen (ofc you can use /url if you need to open webpages). You will see this command and other following commands introduced in details in next section. The thing that makes this script different from other scripts available in market is that you can create multiple __[CHANNELS]__ so people in different channels can watch different videos. Same concept as watching different videos in different rooms of a building and the command to use this feature is "/tch".
 To prevent people from abusing your media script, there are two options you can use in your advantage. First option is you can use "/tpass" to set password for your channels, so in a crowded experience, only the few who know the pass can use the commands. By using the other option, i.e. "/tban", you can ban the users who are abusing your script so they won’t have access to commands anymore.
 
->- current version: 1.5
->- release date   : August 28 2019
+>- current version: 1.6
+>- release date   : August 29 2019
 
 ## Commands
 There are two kind of commands for this script. You can write __`/tiki`__ in your chatbox in Sansar to see all Commands.
@@ -88,13 +88,17 @@ _Attention:_
 
 Source | Parameter | Help
 :--- | :--- | :---
+all Sources| any official parameter| e.g. twitch can have &t=00h00m00s to play from specific time.(using &seprated parameters you can have more than one param)
 youtube | loop | to repeat playing same video.
 youtube | list | to play videos in playlist.
+
+>you can use __'/tk params'__ to see a list of usefull parameters.
 
 ## Logs
 
 Version | Log 
 :--- | :--- 
+1.6 | now you can add video source's official embed parameters for more customization.
 1.5 | fixed priority of ban check in script structure. added a bunch of report messages (private chat).
 1.4 | "/tkey" -> "/tpass" and now owner will get debug (Ctrl + D) message for each media request.
 1.3 | adding "/tban all" and the ability to set password for public channel
