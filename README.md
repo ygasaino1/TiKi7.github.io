@@ -98,6 +98,7 @@ youtube | list | to play videos in playlist.
 
 Version | Log 
 :--- | :--- 
+1.7 | people will join at the current time of video (not from the begining) (youtube tracks only)
 1.6 | now you can add video source's official embed parameters for more customization.
 1.5 | fixed priority of ban check in script structure. added a bunch of report messages (private chat).
 1.4 | "/tkey" -> "/tpass" and now owner will get debug (Ctrl + D) message for each media request.
