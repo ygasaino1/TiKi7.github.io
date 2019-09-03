@@ -3,8 +3,8 @@
 TKMedia uses these 4 commands. {"/tk", "/tch", "/tpass", "/tban"}. The most important command that is used to open your media link is "/tk". This command will convert your link to embed link. E.g. If your link is a youtube video, there will be no ads and its going to be fullscreen (ofc you can use /url if you need to open webpages). You will see this command and other following commands introduced in details in next section. The thing that makes this script different from other scripts available in market is that you can create multiple __[CHANNELS]__ so people in different channels can watch different videos. Same concept as watching different videos in different rooms of a building and the command to use this feature is "/tch".
 To prevent people from abusing your media script, there are two options you can use in your advantage. First option is you can use "/tpass" to set password for your channels, so in a crowded experience, only the few who know the pass can use the commands. By using the other option, i.e. "/tban", you can ban the users who are abusing your script so they won’t have access to commands anymore.
 
->- current version: 1.6
->- release date   : August 29 2019
+>- current version: 1.7
+>- release date   : September 3 2019
 
 ## Commands
 There are two kind of commands for this script. You can write __`/tiki`__ in your chatbox in Sansar to see all Commands.
