@@ -4,7 +4,7 @@ TKMedia uses these 4 commands. {"/tk", "/tch", "/tpass", "/tban"}. The most impo
 To prevent people from abusing your media script, there are two options you can use in your advantage. First option is you can use "/tpass" to set password for your channels, so in a crowded experience, only the few who know the pass can use the commands. By using the other option, i.e. "/tban", you can ban the users who are abusing your script so they won’t have access to commands anymore.
 
 >- current version: 2.0
->- release date   : December 24 2019
+>- release date   : January 3 2020
 
 ## Commands
 There are two kind of commands for this script. You can write __`/tiki`__ in your chatbox in Sansar to see all Commands.
