@@ -98,6 +98,7 @@ youtube | list | to play videos in playlist.
 
 Version | Log 
 :--- | :--- 
+2.1 | showing video/music titles on load
 2.0 | now you can use simple scripts to change channels + you can set default urls for all channels in edit mode
 1.7 | people will join at the current time of video (not from the begining) (youtube tracks only)
 1.6 | now you can add video source's official embed parameters for more customization.
