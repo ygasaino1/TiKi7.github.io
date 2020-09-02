@@ -43,23 +43,23 @@ Command | Description
  :--- | :---
 |/tch| SHows Channels List |
 |/tch 11| Join Channel 11 |
-|/tch open My Little Room| Opens(Creates) a new Channel with "My Little Room" as Name|
-|/tch close 11 | Closes(Deletes) Channel Number 11|
+|/tch open My Little Room| [ModeratorsOnly] Opens(Creates) a new Channel with "My Little Room" as Name|
+|/tch close 11 | [ModeratorsOnly] Closes(Deletes) Channel Number 11|
 
 > You can use `tch{i=?}` as Event name to Join a Channel. Exmp: `tch{i=3}` to Join Channel3
 
 
 /tlock Options... | Description
  :--- | :---
-|/tlock | Shows Current Lock Status|
-|/tlock on | Activates the Lock|
-|/tlock off | DeActivates the Lock|
+|/tlock | [ModeratorsOnly] Shows Current Lock Status|
+|/tlock on | [ModeratorsOnly] Activates the Lock|
+|/tlock off | [ModeratorsOnly] DeActivates the Lock|
 
 
 Other Options... | Description
  :--- | :---
-|/url https://www.youtube.com/watch?v=F8gPLTk_ehQ&list=RDZFXoWhux1ts | Opens the Link without Modifications|
-|/tbug | Shows the ObjectName that has your TKMedia |
+|/url https://www....  | Opens the Link without Modifications|
+|/tbug | [ModeratorsOnly] Shows the ObjectName that has your TKMedia |
 
 
 
