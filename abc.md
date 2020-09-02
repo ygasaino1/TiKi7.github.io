@@ -3,9 +3,9 @@
 > - current version: 3.0
 > - release date   : September 2 2020
 
-TKMedia v3 includes two scripts on Purchase. `Media` and `Event`.
-`Media` is your Main script and you have to add it to your Experience only once. by Adding this script, you can use all the ChatBox Commands that is Described in this page.
-`Event` is The script you can use to Open(play) Media links using Event Triggers.
+TKMedia Includes Two Scripts on Purchase. `Media` and `Event`.
+- `Media` is your Main script and you have to add it to your Experience only once. by Adding this script, you can use all the ChatBox Commands that is Described in this page.
+- `Event` is The script you can use to Open(play) Media links using Event Triggers.
 
 ``` ChatBox Commands= {/tiki, /tk, /tch, /tlock, /url, /tbug} ```
 
